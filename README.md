@@ -1,9 +1,7 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A04FFF&background=EB9BFF00&center=true&vCenter=true&width=750&lines=Hey+there!+%F0%9F%91%8B+I'm+Krutika;AI+%26+Data+Science+Student+%F0%9F%A4%96;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Flutter+Developer+%F0%9F%93%B1;Firebase+Enthusiast+%F0%9F%94%A5;Web+Developer+%F0%9F%92%BB;Building+Real-World+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
-<h1 align="center">Hey there! 👋 I'm Krutika</h1>
 
-<h3 align="center">
-Flutter Developer • AI & Data Science Student • UI/UX Enthusiast
-</h3>
+</p>
 
 # 💫 About Me
 
