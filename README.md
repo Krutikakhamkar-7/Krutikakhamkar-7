@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Krutika</h1>
+
+<h3 align="center">
+Flutter Developer • AI & Data Science Student • UI/UX Enthusiast
+</h3>
 
 # 💫 About Me
 
