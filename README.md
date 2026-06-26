@@ -2,8 +2,6 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A04FFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Krutika;Flutter+Developer;AI+%26+Data+Science+Student;UI%2FUX+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
 
 </p>
-💫 About Me
-
 
 🔭 I’m currently working on
 
