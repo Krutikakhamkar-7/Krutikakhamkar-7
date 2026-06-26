@@ -24,7 +24,7 @@
   <tr>
     <td align="center"><b>Mobile Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,ASP.NET Core," />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,ASP.NET Core" />
     </td>
   </tr>
 
