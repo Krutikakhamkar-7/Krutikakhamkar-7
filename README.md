@@ -17,14 +17,14 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,c#,python,dart,js" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,c#,python,dart" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Mobile Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,ASP.NET Core" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase" />
     </td>
   </tr>
 
