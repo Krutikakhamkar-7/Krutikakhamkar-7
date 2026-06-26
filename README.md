@@ -17,14 +17,14 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,js,c#" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,c#,python,dart,js" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Mobile Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,ASP.NET Core," />
     </td>
   </tr>
 
@@ -45,7 +45,7 @@
   <tr>
     <td align="center"><b>Tools & Platforms</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,Postman" />
     </td>
   </tr>
 
