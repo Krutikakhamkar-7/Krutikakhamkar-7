@@ -3,9 +3,7 @@
 
 </p>
 
-🔭 I’m currently working on <u>Klyra</u>
-
-🌱 I’m currently learning MERN Stack, Mobile Developement And Full Stack Developement 
+🌱 Currently learning MERN Stack, Mobile Developement And Full Stack Developement 
 
 🚀 DSA in C++
 
