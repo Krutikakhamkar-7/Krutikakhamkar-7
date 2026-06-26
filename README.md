@@ -17,7 +17,7 @@
   <tr>
     <td align="center"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,js" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,js,c#" />
     </td>
   </tr>
 
@@ -31,14 +31,14 @@
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,typescript,javascript" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b>Backend & Database</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+      <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql" />
     </td>
   </tr>
 
