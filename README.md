@@ -2,15 +2,15 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A04FFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Krutika;Flutter+Developer;AI+%26+Data+Science+Student;UI%2FUX+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
 
 </p>
-# 💫 About Me
+💫 About Me
 
-* 🎓 Second Year B.E. Artificial Intelligence & Data Science Student
-* 📱 Flutter Developer passionate about building real-world mobile applications
-* 🎨 UI/UX Enthusiast with experience in Figma and Prototyping
-* 🔥 Currently exploring React.js, Firebase, AI Applications & Full Stack Development
-* 🚀 Building projects that solve real problems and improve user experiences
-* 💡 Interested in Mobile Development, Artificial Intelligence, Product Design & Innovation
-* 🌱 Continuously learning and improving through projects, internships, and open-source contributions
+🔭 I’m currently working on
+
+🌱 I’m currently learning MERN Stack, Mobile Developement And Full Stack Developement 
+
+🚀 DSA in C++
+
+📫 Reach me krutikakhamkar07@gmail.com
 
 ---
 
