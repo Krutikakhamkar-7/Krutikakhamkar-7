@@ -12,11 +12,16 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 I'm currently learning **MERN Stack, Mobile Development & Full Stack Development**
-- 🚀 I practice **DSA in C++**
-- 💬 Ask me about **Flutter, React & UI/UX**
-- 📫 Reach me at **krutikakhamkar07@gmail.com**
+🌱 **Currently Learning**
+- MERN Stack
+- Mobile Development
+- Full Stack Development
 
+🚀 **Practicing**
+- DSA in C++
+
+📫 **Reach Me**
+- **krutikakhamkar07@gmail.com**
 <br clear="right"/>
 
 ---
