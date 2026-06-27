@@ -6,30 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A04FFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Krutika;Flutter+Developer;AI+%26+Data+Science+Student;UI%2FUX+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
 </p>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+---
+
+<img align="right" alt="Coding" width="350" src="coding.gif">
 
 ### 👩‍💻 About Me
 
-🌱 **Currently Learning**
-- MERN Stack
-- Mobile Development
-- Full Stack Development
+- 🌱 I'm currently learning **MERN Stack, Mobile Development & Full Stack Development**
+- 🚀 I practice **DSA in C++**
+- 💬 Ask me about **Flutter, React & UI/UX**
+- 📫 Reach me at **krutikakhamkar07@gmail.com**
 
-🚀 **Practicing**
-- DSA in C++
-
-📫 **Reach Me**
-- **krutikakhamkar07@gmail.com**
-
-</td>
-
-<td width="40%" align="center">
-<img src="coding.gif" width="320"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
