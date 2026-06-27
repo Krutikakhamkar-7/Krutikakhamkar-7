@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coding.gif" width="350">
+  <img src="photo2.gif" width="550">
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A04FFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Krutika;Flutter+Developer;AI+%26+Data+Science+Student;UI%2FUX+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
@@ -13,6 +13,9 @@
 📫 Reach me krutikakhamkar07@gmail.com
 
 ---
+<p align="center">
+  <img src="coding.gif" width="350">
+</p>
 
 ## 🧰 Tech Universe
 
