@@ -1,12 +1,12 @@
 <p align="center">
   <img src="photo2.gif" width="750">
 </p>
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A04FFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Krutika;Flutter+Developer;AI+%26+Data+Science+Student;UI%2FUX+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
 </p>
 
-
+---
 
 <img align="right" alt="Coding" width="350" src="coding.gif">
 
@@ -23,8 +23,8 @@
 <br clear="right"/>
 
 
-
-## 🌐 Socials
+---
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/Krutikakhamkar-7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
@@ -39,7 +39,7 @@
 </p>
 
 
-
+---
 
   ## 🧰 Tech Universe
 
