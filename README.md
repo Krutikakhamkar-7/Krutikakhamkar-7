@@ -20,51 +20,22 @@
 🚀 **Practicing**
 - DSA in C++
 
-📫 **Reach Me**
-- **krutikakhamkar07@gmail.com**
 <br clear="right"/>
 
 ---
-## 🌐 Connect With Me
 
-<p align="center">
+## 🌐 Socials
 
-<a href="https://www.linkedin.com/in/krutika-khamkar-5a2660319/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Krutikakhamkar-7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:krutikakhamkar07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/krutikakhamkar079/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/krutikakhc7kt" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/krutikakhamkar" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://huggingface.co/krutika079" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
-<a href="https://dev.to/krutika_khamkar_dbb727c9a" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/krutika079" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+<p align="left">
+<a href="https://github.com/Krutikakhamkar-7" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+<a href="https://www.linkedin.com/in/krutika-khamkar-5a2660319/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="mailto:krutikakhamkar07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+<a href="https://leetcode.com/u/krutikakhamkar079/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" /></a>
+<a href="https://www.geeksforgeeks.org/profile/krutikakhc7kt" target="_blank"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45" /></a>
+<a href="https://www.kaggle.com/krutikakhamkar" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" /></a>
+<a href="https://huggingface.co/krutika079" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" /></a>
+<a href="https://dev.to/krutika_khamkar_dbb727c9a" target="_blank"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="45" /></a>
+<a href="https://discord.com/users/krutika079" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 ## 🧰 Tech Universe
 
