@@ -79,11 +79,4 @@
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
     </td>
   </tr>
-
-  <tr>
-    <td align="center"><b>Currently Learning</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" />
-    </td>
-  </tr>
 </table>
