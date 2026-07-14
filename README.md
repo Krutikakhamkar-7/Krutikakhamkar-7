@@ -16,7 +16,6 @@
 - MERN Stack
 - Mobile Development
 - Full Stack Development
-- AI And Ml
 
 🚀 **Practicing**
 - DSA in C++
@@ -40,7 +39,6 @@
 </p>
 
 
----
 
   ## 🧰 Tech Universe
 
